@@ -5,4 +5,4 @@ Além de da biblioteca Requests, usei a lib docker para realizar todas essas ope
 
 Todo este projeto foi realizado em ambiente virtual, venv do python, na qual segue o arquivo requeritments com as libs usadas.
 
-![Uploading image.png…]()
+![Captura de tela de 2024-02-14 17-57-52](https://github.com/Ricardo6664/Alerta-de-containers-finalizados-no-Discord/assets/124509531/7d1823b5-476f-4d96-9fd3-038249dd2c2d)
